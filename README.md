@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TAJCHENG1
 - 👀 I’m interested in ..
-- 🌱 I’m CURRENTLY LEARNING FULLSTACK  
+- 🌱 I’m LEARNING FULLSTACK  
 - 💞️ ALWAYS READY TO HELP (SHARING KNOWLEDGE AND GAINING KNOWLEDGE) 
 - 📫 How to reach me INSTA_ID- tajcheng
 
